@@ -1,0 +1,114 @@
+{
+    "models": {
+        "1": {
+            "name": "Electric Winch"
+        },
+        "2": {
+            "name": "Aircraft Engine"
+        },
+        "3": {
+            "name": "Printed Circuit Board"
+        },
+        "4": {
+            "name": "Dump Truck"
+        },
+        "5": {
+            "name": "Gas station"
+        },
+        "6": {
+            "name": "Grindstone"
+        },
+        "7": {
+            "name": "Reducer"
+        }
+    },
+
+    "tabs": {
+        "view": "View",
+        "catalog": "Catalog",
+        "manual": "Manual"
+    },
+
+    "header": {
+        "title":"CAD Web Viewer"
+    },
+
+    "viewer": {
+        "mainMenu": {
+            "rotate": {
+                "title": "Rotate",
+                "autoRotate": "Auto Rotate",
+                "velocity": "Velocity"
+            },
+            "explode": {
+                "title": "Explode",
+                "power": "Power"
+            },
+            "cut": {
+                "title": "Cut",
+                "activate": "Activate",
+                "showPlanes": "Show Planes",
+                "planes": "Planes",
+                "invert": "Invert"
+            },
+            "restoreView": {
+                "title": "Restore View"
+            },
+            "restoreVisibility": {
+                "title": "Restore Visibility"
+            },
+            "fullscreen":{
+                "title": "Full Screen",
+                "title2": "Exit Full Screen"
+            }
+        },
+        "contextMenu": {
+            "hide": {
+                "title": "Hide part"
+            },
+            "annotation": {
+                "title": "Add Annotation",
+                "text": "Text of Annotation",
+                "defaultValue": "Part #1",
+                "add": "Add Annotation"
+            },
+            "restoreVisibility": {
+                "title": "Restore Visibility"
+            },
+            "fitIntoView": {
+                "title": "Fit into View"
+            },
+            "isolate": {
+                "title": "Isolate part"
+            }
+        },
+        "chooseModel": "Choose Model",
+        "units":"mm",
+        "fullscreen": "Press <1>Esc</1> to exit full screen mode"
+    },
+
+    "catalog":{
+        "partNumber": "Part NO.",
+        "title": "Title"
+    },
+
+    "manual": {
+        "steps": [
+            "The installation of the Electric Winch begins with the installation of the drum.",
+            "The drum spacers are attached to the frame with 4 screws ISO 4018 - M20 x 45.",
+            "The assembled single-stage bevel gearbox is installed on the sleeper pad.",
+            "The gearbox is fixed with a threaded connection. The bolt is tightened to pre-tension.",
+            "The shaft of the gearbox and the drum are connected by a cam clutch",
+            "For mounting the electric motor on the Frame, a special Cover is installed.",
+            "The base fasteners are tightened to the frame with 4 screws.",
+            "The motor is mounted on the top sheet of the Casing",
+            "The engine feet are screwed to the cover.",
+            "The high-speed gearbox shaft and the motor shaft are connected by a belt drive.",
+            "The electric motor is connected to the 380V AC network",
+            "The drive pulley of the electric motor uses the drive belt to transfer the movement to the driven pulley.",
+            "The driven pulley transfers energy to the high-speed shaft of the gearbox, on which the gear is attached.",
+            "With the help of a bevel gear, mechanical energy is transmitted from the gear to the wheel at an angle of 90 degrees. Due to the gear ratio on the wheel, the speed is much lower, but the high torque allows you to pull heavy loads.",
+            "The low-speed shaft of the gearbox is connected to the end of the drum shaft by means of a coupling. It is capable of transmitting mechanical energy without changing the speed."
+        ]
+    }
+}
